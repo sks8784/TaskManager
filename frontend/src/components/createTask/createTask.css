@@ -1,0 +1,11 @@
+.toast{
+    display: none;
+}
+
+.heading{
+    font-size: 3vmax;
+    transform: translateX(20%);
+    margin-top: 1vmax;
+    font-family: cursive;
+    color:rgba(0, 0, 0, 0.592)
+}
